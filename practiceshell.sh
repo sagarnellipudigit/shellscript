@@ -1,0 +1,3 @@
+PERSON=$1
+
+echo "$PERSON"
