@@ -1,3 +1,4 @@
 PERSON=$1
+PERSON1=$2
 
-echo "$PERSON"
+echo "$PERSON , $PERSON1"
